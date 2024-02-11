@@ -55,3 +55,4 @@ C:\Users\Artem\source\repos\MudBlazorWebApp1\MudBlazorWebApp1\MudBlazorWebApp1\o
 C:\Users\Artem\source\repos\MudBlazorWebApp1\MudBlazorWebApp1\MudBlazorWebApp1\obj\Debug\net8.0\MudBlazorWebApp1.pdb
 C:\Users\Artem\source\repos\MudBlazorWebApp1\MudBlazorWebApp1\MudBlazorWebApp1\obj\Debug\net8.0\MudBlazorWebApp1.genruntimeconfig.cache
 C:\Users\Artem\source\repos\MudBlazorWebApp1\MudBlazorWebApp1\MudBlazorWebApp1\obj\Debug\net8.0\ref\MudBlazorWebApp1.dll
+C:\Users\Artem\source\repos\MudBlazorWebApp1\MudBlazorWebApp1\MudBlazorWebApp1\obj\Debug\net8.0\MudBlazorWebApp1.sourcelink.json

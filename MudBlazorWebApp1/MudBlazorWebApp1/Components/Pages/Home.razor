@@ -1,9 +1,12 @@
-﻿@page "/"
+﻿
+@page "/"
+@rendermode InteractiveServer
 
+<MudPagination Color="Color.Primary" Variant="Variant.Filled" Count="4" @bind-Selected="@_selected" />
 
-<MudPagination Color="Color.Primary" Count="4" @bind-Selected="@_selected" />
 
 <MudText Align="Align.Center">Selected page: @_selected</MudText>
     @code {
+
     private int _selected = 1;
 }

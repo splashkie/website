@@ -1041,3 +1041,4 @@ C:\Users\Artem\source\repos\MudBlazorWebApp1\MudBlazorWebApp1\MudBlazorWebApp1.C
 C:\Users\Artem\source\repos\MudBlazorWebApp1\MudBlazorWebApp1\MudBlazorWebApp1.Client\obj\Debug\net8.0\refint\MudBlazorWebApp1.Client.dll
 C:\Users\Artem\source\repos\MudBlazorWebApp1\MudBlazorWebApp1\MudBlazorWebApp1.Client\obj\Debug\net8.0\MudBlazorWebApp1.Client.pdb
 C:\Users\Artem\source\repos\MudBlazorWebApp1\MudBlazorWebApp1\MudBlazorWebApp1.Client\obj\Debug\net8.0\ref\MudBlazorWebApp1.Client.dll
+C:\Users\Artem\source\repos\MudBlazorWebApp1\MudBlazorWebApp1\MudBlazorWebApp1.Client\obj\Debug\net8.0\MudBlazorWebApp1.Client.sourcelink.json
